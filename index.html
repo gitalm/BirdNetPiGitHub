@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ede>
+<meta charset="UTF-8">
+<title>Analyze Data with D3.js</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+ <!-- Latest compiled and minified CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script> 
+<!-- https://www.tutorialsteacher.com/d3js/setup-d3js-development-environment -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<style>
+</style>
+<body>
+
+
+<div class="">
+ <h1>CSV-Basic</h1>
+ <p>Loading of CSV is functioning. Have to change the file to *csv and change the delimiter to "," 
+ probably <i>sed -i  's/\,;\;/g' BirdDB.txt</i></p>
+ <p id="d3js">D3.Js Playground</p>
+</div>
+             
+<script>
+	d3.select('#d3js').text("Macht Spaß 😎");
+	d3.csv("BirdDB.csv", function(data) {
+			for (var i=0; i < data.length; i++) {
+			console.log(data[i].Date);
+			console.log(data[i].Com_Name);
+			}
+		});
+</script>
+
+</body>
+</html> 
