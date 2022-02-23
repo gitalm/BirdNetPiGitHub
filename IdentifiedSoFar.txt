@@ -5,6 +5,7 @@ Blaumeise
 Brachvogel
 Buchfink
 Dreizehenspecht
+Elster
 Erlenzeisig
 Feldsperling
 Felsentaube
