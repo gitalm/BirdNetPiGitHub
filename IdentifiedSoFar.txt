@@ -34,4 +34,5 @@ Uhu
 Waldbaumläufer
 Waldkauz
 Waldohreule
+Weidensperling
 Zwergdommel
