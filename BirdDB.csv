@@ -2683,3 +2683,8 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/02/26,10:32:11,Passer domesticus,Haussperling,0.81753325,47.8555,12.3401,0.7,8,0.75,0.0
 2022/02/26,10:32:26,Passer domesticus,Haussperling,0.839129,47.8555,12.3401,0.7,8,0.75,0.0
 2022/02/26,10:32:41,Passer domesticus,Haussperling,0.7493859,47.8555,12.3401,0.7,8,0.75,0.0
+2022/02/26,10:57:27,Cygnus cygnus,Singschwan,0.7919177,47.8555,12.3401,0.7,8,0.75,0.0
+2022/02/27,06:41:56,Corvus corone,Rabenkrähe,0.7757376,47.8555,12.3401,0.7,8,0.75,0.0
+2022/02/27,06:46:26,Parus major,Kohlmeise,0.83867496,47.8555,12.3401,0.7,8,0.75,0.0
+2022/02/27,06:47:41,Corvus corone,Rabenkrähe,0.7855699,47.8555,12.3401,0.7,8,0.75,0.0
+2022/02/28,06:22:59,Phasianus colchicus,Jagdfasan,0.74076706,47.8555,12.3401,0.7,9,0.75,0.0
