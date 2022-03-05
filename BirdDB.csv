@@ -117,3 +117,6 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/05,06:59:24,Passer domesticus,Haussperling,0.70918804,47.8555,12.3401,0.7,9,0.75,0.0
 2022/03/05,07:17:39,Acrocephalus schoenobaenus,Schilfrohrsänger,0.8360352,47.8555,12.3401,0.7,9,0.75,0.0
 2022/03/05,07:21:55,Fringilla coelebs,Buchfink,0.9030458,47.8555,12.3401,0.7,9,0.75,0.0
+2022/03/05,08:15:11,Fringilla coelebs,Buchfink,0.7268808,47.8555,12.3401,0.7,9,0.75,0.0
+2022/03/05,08:22:11,Parus major,Kohlmeise,0.8079443,47.8555,12.3401,0.7,9,0.75,0.0
+2022/03/05,08:22:11,Parus major,Kohlmeise,0.70108473,47.8555,12.3401,0.7,9,0.75,0.0
