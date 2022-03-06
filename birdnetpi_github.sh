@@ -7,7 +7,7 @@ cp /home/pi/BirdNET-Pi/IdentifiedSoFar.txt /home/pi/birdnetpi_github/
 echo "Textfiles copied"
 
 #Copy Audio-Files
-cp -aru  /home/pi/BirdSongs/Extracted/By_Common_Name/* /home/pi/birdnetpi_github/By_Common_Name
+cp -aLru  /home/pi/BirdSongs/Extracted/By_Common_Name/* /home/pi/birdnetpi_github/By_Common_Name
 echo "all transfered"
 
 #Commit to the internet
