@@ -246,3 +246,7 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/08,07:20:24,Parus major,Kohlmeise,0.74455726,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/08,07:20:39,Parus major,Kohlmeise,0.90456927,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/08,07:30:39,Alca torda,Tordalk,0.70057195,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/08,13:42:19,Certhia familiaris,Waldbaumläufer,0.70482093,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/08,14:16:04,Somateria mollissima,Eiderente,0.7216313,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/08,14:38:35,Glaucidium passerinum,Sperlingskauz,0.96187025,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/08,14:43:20,Bubo bubo,Uhu,0.733636,47.8555,12.3401,0.7,10,0.75,0.0
