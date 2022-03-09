@@ -353,3 +353,10 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/09,09:12:43,Fringilla coelebs,Buchfink,0.81840396,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/09,09:12:58,Fringilla coelebs,Buchfink,0.88753724,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/09,09:12:58,Fringilla coelebs,Buchfink,0.7558334,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:23:28,Parus major,Kohlmeise,0.84326893,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:23:43,Parus major,Kohlmeise,0.8046037,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:24:28,Passer montanus,Feldsperling,0.71812,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:27:58,Falco tinnunculus,Turmfalke,0.91638005,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:28:13,Falco tinnunculus,Turmfalke,0.8821956,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:29:13,Certhia brachydactyla,Gartenbaumläufer,0.8553038,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:29:13,Certhia brachydactyla,Gartenbaumläufer,0.7018568,47.8555,12.3401,0.7,10,0.75,0.0
