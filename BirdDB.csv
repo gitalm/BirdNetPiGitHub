@@ -360,3 +360,7 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/09,09:28:13,Falco tinnunculus,Turmfalke,0.8821956,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/09,09:29:13,Certhia brachydactyla,Gartenbaumläufer,0.8553038,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/09,09:29:13,Certhia brachydactyla,Gartenbaumläufer,0.7018568,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:40:13,Passer montanus,Feldsperling,0.76861995,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:40:28,Passer montanus,Feldsperling,0.7983957,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:40:28,Passer montanus,Feldsperling,0.7137439,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,09:40:43,Passer montanus,Feldsperling,0.7293249,47.8555,12.3401,0.7,10,0.75,0.0
