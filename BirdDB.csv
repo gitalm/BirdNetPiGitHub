@@ -316,3 +316,7 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/09,08:27:57,Fringilla coelebs,Buchfink,0.782162,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/09,08:28:12,Fringilla coelebs,Buchfink,0.7207096,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/09,08:28:42,Fringilla coelebs,Buchfink,0.8260379,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,08:31:57,Chloris chloris,Grünfink,0.73104465,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,08:34:42,Corvus frugilegus,Saatkrähe,0.73654306,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,08:44:12,Tetrao tetrix,Black Grouse,0.7402478,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/09,08:44:27,Parus major,Kohlmeise,0.7765541,47.8555,12.3401,0.7,10,0.75,0.0
