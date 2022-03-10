@@ -438,3 +438,6 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/10,09:37:59,Passer domesticus,Haussperling,0.762598,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/10,09:40:44,Passer domesticus,Haussperling,0.7156794,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/10,09:40:44,Passer domesticus,Haussperling,0.7307384,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/10,09:48:29,Troglodytes troglodytes,Zaunkönig,0.84098494,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/10,09:52:44,Falco tinnunculus,Turmfalke,0.7997838,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/10,09:52:59,Falco tinnunculus,Turmfalke,0.95902556,47.8555,12.3401,0.7,10,0.75,0.0
