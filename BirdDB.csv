@@ -384,3 +384,7 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/09,10:10:14,Certhia brachydactyla,Gartenbaumläufer,0.7673917,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/09,10:10:29,Certhia brachydactyla,Gartenbaumläufer,0.8725765,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/10,06:41:10,Fringilla coelebs,Buchfink,0.8948457,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/10,06:56:25,Locustella luscinioides,Rohrschwirl,0.73456967,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/10,06:56:40,Locustella luscinioides,Rohrschwirl,0.7869248,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/10,06:56:55,Locustella luscinioides,Rohrschwirl,0.7292385,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/10,06:57:40,Locustella luscinioides,Rohrschwirl,0.7227515,47.8555,12.3401,0.7,10,0.75,0.0
