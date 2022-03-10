@@ -6,7 +6,8 @@ sed -i 's/\;/\,/g' /home/pi/birdnetpi_github/BirdDB.csv
 cp /home/pi/BirdNET-Pi/IdentifiedSoFar.txt /home/pi/birdnetpi_github/
 echo "Textfiles copied"
 
-#Copy Audio-Files
+#Copy Audio-Files and delete Png Spectrogram
+find /home/pi/BirdSongs/Extracted/By_Common_Name/ -name "*.png" | xargs rm
 cp -aLru  /home/pi/BirdSongs/Extracted/By_Common_Name/* /home/pi/birdnetpi_github/By_Common_Name
 echo "all transfered"
 
