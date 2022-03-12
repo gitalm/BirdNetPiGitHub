@@ -346,3 +346,5 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/12,09:30:14,Anser anser,Graugans,0.8971589,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/12,09:39:14,Vanellus vanellus,Kiebitz,0.74737024,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/12,09:59:15,Anser anser,Graugans,0.8762493,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/12,10:04:15,Vanellus vanellus,Kiebitz,0.86042774,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/12,10:04:15,Vanellus vanellus,Kiebitz,0.7192163,47.8555,12.3401,0.7,10,0.75,0.0
