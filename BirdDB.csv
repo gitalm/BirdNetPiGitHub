@@ -602,3 +602,5 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/14,07:43:18,Vanellus vanellus,Kiebitz,0.7685043,47.8555,12.3401,0.7,11,0.75,0.0
 2022/03/14,07:45:03,Phylloscopus collybita,Zilpzalp,0.95357394,47.8555,12.3401,0.7,11,0.75,0.0
 2022/03/14,07:45:18,Phylloscopus collybita,Zilpzalp,0.965153,47.8555,12.3401,0.7,11,0.75,0.0
+2022/03/14,08:04:03,Cyanistes caeruleus,Blaumeise,0.7391744,47.8555,12.3401,0.7,11,0.75,0.0
+2022/03/14,08:16:19,Anser anser,Graugans,0.71886706,47.8555,12.3401,0.7,11,0.75,0.0
