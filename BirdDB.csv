@@ -592,3 +592,6 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/14,06:29:16,Anser anser,Graugans,0.8452334,47.8555,12.3401,0.7,11,0.75,0.0
 2022/03/14,06:29:31,Anser anser,Graugans,0.8433693,47.8555,12.3401,0.7,11,0.75,0.0
 2022/03/14,06:29:31,Anser anser,Graugans,0.79105914,47.8555,12.3401,0.7,11,0.75,0.0
+2022/03/14,06:43:01,Numenius arquata,Brachvogel,0.7689081,47.8555,12.3401,0.7,11,0.75,0.0
+2022/03/14,06:43:31,Numenius arquata,Brachvogel,0.8586999,47.8555,12.3401,0.7,11,0.75,0.0
+2022/03/14,06:43:31,Pyrrhula pyrrhula,Gimpel,0.7575906,47.8555,12.3401,0.7,11,0.75,0.0
