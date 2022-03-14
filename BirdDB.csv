@@ -493,3 +493,6 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/13,10:16:03,Vanellus vanellus,Kiebitz,0.86645955,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/13,10:16:03,Strix aluco,Waldkauz,0.74058294,47.8555,12.3401,0.7,10,0.75,0.0
 2022/03/13,10:19:18,Cyanistes caeruleus,Blaumeise,0.72234374,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/13,10:20:18,Chroicocephalus ridibundus,Lachmöwe,0.8405647,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/13,10:22:33,Anthus spinoletta,Bergpieper,0.7398579,47.8555,12.3401,0.7,10,0.75,0.0
+2022/03/13,10:23:03,Poecile palustris,Sumpfmeise,0.7666352,47.8555,12.3401,0.7,10,0.75,0.0
