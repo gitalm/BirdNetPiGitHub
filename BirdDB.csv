@@ -1105,3 +1105,7 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/24,05:45:38,Anser anser,Graugans,0.93856597,47.8555,12.3401,0.7,12,0.75,0.0
 2022/03/24,05:45:38,Anser anser,Graugans,0.7269222,47.8555,12.3401,0.7,12,0.75,0.0
 2022/03/24,05:45:53,Anser anser,Graugans,0.82911015,47.8555,12.3401,0.7,12,0.75,0.0
+2022/03/24,06:01:39,Aquila adalberti,Iberienadler,0.74306315,47.8555,12.3401,0.7,12,0.75,0.0
+2022/03/24,06:06:09,Numenius arquata,Brachvogel,0.71360666,47.8555,12.3401,0.7,12,0.75,0.0
+2022/03/24,06:17:09,Parus major,Kohlmeise,0.71118647,47.8555,12.3401,0.7,12,0.75,0.0
+2022/03/24,06:18:54,Chroicocephalus ridibundus,Lachmöwe,0.7294806,47.8555,12.3401,0.7,12,0.75,0.0
