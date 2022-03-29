@@ -1606,3 +1606,6 @@ Date,Time,Sci_Name,Com_Name,Confidence,Lat,Lon,Cutoff,Week,Sens,Overlap
 2022/03/28,07:35:29,Phylloscopus trochilus,Fitis,0.8114809,47.8555,12.3401,0.7,13,0.75,0.0
 2022/03/28,07:35:44,Phylloscopus trochilus,Fitis,0.8932574,47.8555,12.3401,0.7,13,0.75,0.0
 2022/03/28,07:35:59,Phylloscopus trochilus,Fitis,0.8112213,47.8555,12.3401,0.7,13,0.75,0.0
+2022/03/29,06:06:56,Vanellus vanellus,Kiebitz,0.7773879,47.8555,12.3401,0.7,13,0.75,0.0
+2022/03/29,06:06:56,Vanellus vanellus,Kiebitz,0.9577091,47.8555,12.3401,0.7,13,0.75,0.0
+2022/03/29,06:13:11,Vanellus vanellus,Kiebitz,0.8733585,47.8555,12.3401,0.7,13,0.75,0.0
